@@ -1,5 +1,5 @@
 {
-  "name": "phptars/tars-deploy",
+  "name": "caasdata/tars-deploy",
   "description": "tarsphp 打包",
   "minimum-stability": "dev",
   "version":"0.1.1",
